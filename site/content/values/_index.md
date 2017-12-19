@@ -3,7 +3,7 @@ title: Values X
 image: /img/about-jumbotron.jpg
 values:
   - heading: New value
-    imageUrl: ''
+    imageUrl: /img/products-jumbotron.jpg
     text: 'blah blah blah blah blah blah '
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
